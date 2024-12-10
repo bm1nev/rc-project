@@ -7,4 +7,4 @@
 	(https://brcmodels.bg/product/kombo-hobbywing-xerun-justock-combo-g3s-and-21-turn-2050kv-for-110-cralwer-f1-hw38020373)
 7. Motor Controller 
 8. ? DCDC Convertor
-9. Remote controler
+9. Remote Controller
