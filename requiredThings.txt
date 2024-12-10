@@ -1,0 +1,9 @@
+1. RC Car
+2. Solar Panel
+3. Battery 
+4. Arduino 
+5. Servo Motor (sv90)
+6. DC Motor 
+	(https://brcmodels.bg/product/kombo-hobbywing-xerun-justock-combo-g3s-and-21-turn-2050kv-for-110-cralwer-f1-hw38020373)
+7. Motor Controller 
+8. ? DCDC Convertor
